@@ -1,0 +1,59 @@
+---
+layout: page
+title: About 
+tags: [about, programming, career]
+date: 2017-04-2
+comments: false
+---
+    
+<center>
+<a href="www.linkedin.com/in/ahpjop"><b>Linkdin</b></a> is used as SNS of Career, Business.
+</center>
+  
+
+## Career
+  
+2015年4月：イギリス1年留学  
+2017年3月： 立教池袋高等学校卒業  
+2017年4月：東大人工知能学生団体HAITメンター  
+2017年9月：PKSHA Technologyインターン（4ヶ月）  
+2017年11月：クラウドマイニング事業起業、経営  
+2018年3月：NewsPicks「メイクマネー」出演  
+2018年10月：PinEarth完成
+2021年3月：国際基督教大学（ICU）教養学部卒業見込み（情報科学&生物学専攻）
+
+
+## Features
+* An engineer
+* Machine Learning
+* Blockchain
+* A startup
+* Security（予定）
+
+## Language & Framework
+上から経験年数が長い順になります  
+
+* Python
+	* Machine Learning
+	* TensorFlow
+	* Flask 
+* Ruby
+	* Ruby on Rails 
+* JavaScript
+	* React.js  
+* Solidity
+* SQL
+
+## Certification
+資格は自分の勉強の目標設定に利用しています。  
+
+* 応用情報技術者（2019年4月取得予定）
+* CEH(2019年3月取得予定)
+* 中小企業診断士（2019年8月取得予定）
+* E検定（2019年9月取得予定）
+
+   
+
+
+   	  
+
