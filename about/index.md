@@ -19,7 +19,7 @@ comments: false
 2017年9月：PKSHA Technologyインターン（4ヶ月）  
 2017年11月：クラウドマイニング事業起業、経営  
 2018年3月：NewsPicks「メイクマネー」出演  
-2018年9月：「Weekend Engineer」立ち上げ　　
+2018年9月：「Weekend Engineer」立ち上げ　　　　
 2018年10月：PinEarth完成(教材作成＆マーケティング案件受託の開始)  
 2019年1月：Planetway Japan「PlanetGuardians」立ち上げ参画  
 2021年3月：国際基督教大学（ICU）教養学部卒業見込み（情報科学&生物学専攻）  
