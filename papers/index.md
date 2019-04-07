@@ -21,6 +21,8 @@ comments: false
 - [現代の日本人の好む若い女性に傾向はあるのか](static_1.pdf)
 
 - [コーヒーの消費量は生活にどのような影響を与えるのか](static_2.pdf)
+
+- [(What factors give people altruistic personality](What factors give people altruistic personality.pdf)
     
 
 ## 参考論文/研究
