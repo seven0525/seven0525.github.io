@@ -22,8 +22,8 @@ comments: false
 2017年9月：PKSHA Technologyアルゴリズム開発最年少インターン（4ヶ月） ：月売上100万以上貢献  
 2017年11月：クラウドマイニング事業起業、経営 ：累計順利益200万円以上達成  
 2018年3月：NewsPicks「メイクマネー」出演  
-2018年9月：「Weekend Engineer」立ち上げ  
-2018年10月：ブロックチェーンを用いた位置型SNS「PinEarth」完成、取材  
+2018年9月：[「Weekend Engineer」]( https://seven0525.github.io/we/)立ち上げ  
+2018年10月：ブロックチェーンを用いた位置型SNS[「PinEarth」](https://github.com/seven0525/pinearth)完成、取材  
 2018年11月：(教材作成＆マーケティング案件受託の開始)　　  
 2019年1月：Planetway Japan「PlanetGuardians」立ち上げ参画    
 2021年3月：国際基督教大学（ICU）教養学部卒業見込み（情報科学&生物学専攻）    
@@ -35,7 +35,7 @@ comments: false
 	* TensorFlow / OpenCV / Word2vec / Deap etc...
 	* Flask  /  Django
 * Blockchain
-	* 大学2年次にブロックチェーンを用いた位置型SNSの開発を１人で行いU-22プログラミングコンテストに出場
+	* 大学2年次に[ブロックチェーンを用いた位置型SNS](https://github.com/seven0525/pinearth)の開発を１人で行いU-22プログラミングコンテストに出場
 	* Solidity
 	* Ethereum
 * Database / Cloud
@@ -57,7 +57,7 @@ comments: false
 	* 機会学習を用いたターゲッティング広告モデルの開発販売
 	* エンジニアコミュニティの立ち上げ経営
 	* NewsPicks「メイクマネー」出演、ピッチ
-	*  ロータリークラブ、type就活など招待講演経験あり
+	* ロータリークラブ、type就活など招待講演経験あり
 	
 
 
