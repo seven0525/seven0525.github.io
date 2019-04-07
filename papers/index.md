@@ -22,7 +22,7 @@ comments: false
 
 - [コーヒーの消費量は生活にどのような影響を与えるのか](static_2.pdf)
 
-- [(What factors give people altruistic personality](What factors give people altruistic personality.pdf)
+- [What factors give people altruistic personality](What factors give people altruistic personality.pdf)
     
 
 ## 参考論文/研究
