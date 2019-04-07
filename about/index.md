@@ -11,6 +11,9 @@ comments: false
 </center>
   
 
+## About Me
+先端技術をどうやってマスに実装すればテクノロジーが先に進むのかモノを作りながら考えてます。  
+
 ## Career
   
 2015年4月：イギリス1年留学  
@@ -26,27 +29,38 @@ comments: false
 2021年3月：国際基督教大学（ICU）教養学部卒業見込み（情報科学&生物学専攻）    
 
 
-## Features
-* An engineer
+## Features / Skills
 * Machine Learning
+	* 特に、画像認識と自然言語処理が得意です（実務経験あり）
+	* TensorFlow / OpenCV / Word2vec / Deap etc...
+	* Flask  /  Django
 * Blockchain
-* A startup
-* Server/Network
+	* 大学2年次にブロックチェーンを用いた位置型SNSの開発を１人で行いU-22プログラミングコンテストに出場
+	* Solidity
+	* Ethereum
+* Database / Cloud
+	* 実務やコンペティションの必要性に応じて使用
+	* PostgreSQL
+	* AWS
+	* GCP
+* Infrastructure / Security
+	* 実務経験あり
+	* DNS,SMTP,Proxyなどのサーバー構築、運用
+	* 海外で発表されたWPなどのZero-day vulnerabilityの検証と日本語ドキュメントの作成
+	* ELK
+	* Kali Linux
+* SPA
+	* React.js / Vue.js
+	* ml5.js
+* Business
+	* 19歳時に日本初のクラウドマイニング事業の立ち上げ経営
+	* 機会学習を用いたターゲッティング広告モデルの開発販売
+	* エンジニアコミュニティの立ち上げ経営
+	* NewsPicks「メイクマネー」出演、ピッチ
+	*  ロータリークラブ、type就活など招待講演経験あり
+	
 
-## Language & Framework
-上から経験年数が長い順になります  
 
-* Python
-	* Machine Learning
-	* TensorFlow
-	* Flask 
-* Ruby
-	* Ruby on Rails 
-* JavaScript
-	* React.js  
-	* Vue.js  
-* Solidity  
-* SQL  
 
 ## Certification
 資格は自分の勉強の目標設定に利用しています。  
