@@ -14,7 +14,7 @@ comments: false
 
 - [Liberalism](Liberalism.pdf)
 
-- [Racial Stereotypes in Japan.pdf](Racial_Stereotypes.pdf)
+- [Racial Stereotypes in Japan](Racial_Stereotypes.pdf)
 
 - [Solutions for foreign students in Japan](Solution_for_Foreign_Students_in_Japan.pdf)
 
@@ -22,7 +22,7 @@ comments: false
 
 - [コーヒーの消費量は生活にどのような影響を与えるのか](static_2.pdf)
 
-- [What factors give people altruistic personality](What factors give people altruistic personality.pdf)
+- [What Factors Give People Altruistic Personality](What_factors_give_people_altruistic_personality.pdf)
     
 
 ## 参考論文/研究
